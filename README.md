@@ -1,4 +1,4 @@
-# B2B-Marketplace-Script-in-Laravel
+# B2B Marketplace Application
 Open Source B2B Marketplace Script in Laravel Framework
 
 B2B Marketplace Script is a powerfull and affordable web solution, developed by our team using Open source Laravel Framework. Equiped with tons of features, fully customizable, user friendly interface, that can 
